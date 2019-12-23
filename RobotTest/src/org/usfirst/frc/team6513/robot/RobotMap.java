@@ -49,6 +49,10 @@ public class RobotMap {
 	
 	// Led Driver Port
 	public static final int BLINKIN_DRIVER = 8;
+	
+	// Shooter Motors
+	public static final int SHOOTER_MOTOR_1 = 9;
+	public static final int SHOOTER_MOTOR_2 = 10;
 
 	// Joysticks
 	public static final int DRIVER_STICK = 0;
@@ -98,6 +102,8 @@ public class RobotMap {
 	public static final int ENCODER_PORT_4 = 3;
 	public static final int ENCODER_PORT_5 = 4;
 	public static final int ENCODER_PORT_6 = 5;
+	public static final int ENCODER_PORT_7 = 6;
+	public static final int ENCODER_PORT_8 = 7;
 	
 	// Elevator Preset Heights in Inches
 	public static final double TOP = 24.0;
